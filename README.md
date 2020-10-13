@@ -2,7 +2,7 @@
 Analyze tweets and measure the sentiments of a user's tweets
 
 ## Prerequisites
-+ An approved Twitter developer account, and have activated the new developer portal experience. Access is available with active keys and tokens for a developer App that is attached to a Project created in the developer portal.
++ An approved Twitter developer account, and have activated the new developer portal experience. Access is available with active keys and tokens for a developer App that is attached to a Project created in the developer portal. [Follow this](https://developer.twitter.com/en/apply-for-access "Apply for access") to set up a developer account.
 + Python 3.6+ 
 
 ## Installation
