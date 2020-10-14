@@ -9,7 +9,9 @@ Analyze tweets and measure the sentiments of a user's tweets
 Ensure that the prerequisites are fulfilled.
 Install all the required packages mentioned in requirements.txt. Run the following command to install them at once
 ```bash
-pip install -r /requirements/requirements.txt
+cd src
+pip install -r requirements.txt
+cd ..
 ```
 
 Following this, run 
